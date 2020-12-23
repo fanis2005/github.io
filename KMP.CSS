@@ -277,6 +277,11 @@
     background-color: #fff;
 }
 
+#header-info .call-sign {
+
+    color: #000 !important;
+}
+
 .prebooking_complex .selected-paxes-table .name-wrap__item-upper {
         font-size: 18px;
         width: 100%;
@@ -284,9 +289,4 @@
         bottom: -13px;
         left: 0;
         color: #0723ad; 
-}
-
-#header-info .call-sign {
-
-    color: #000 !important;
 }
