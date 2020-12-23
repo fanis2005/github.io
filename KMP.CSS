@@ -12,8 +12,8 @@
 	 background-color: transparent;
 }
  .m-login__logo img {
-	 width: 575px !important;
-	 height: 205px !important;
+	 width: 275px !important;
+	 height: 75px !important;
 	 margin-bottom: 20px !important;
 }
  .m-login.m-login--2.m-login-2--skin-1 .m-login__container .m-login__form .m-login__form-sub .m-link:hover {
@@ -52,8 +52,8 @@
 	 font-weight: bold;
 }
  .m-login__logo {
-	 margin-top: 2000px !important;
-	 margin-bottom: 2000px !important;
+	 margin-top: 0px !important;
+	 margin-bottom: 0px !important;
 }
  .m-login__recovery-success {
 	 box-shadow: transparent !important;
@@ -122,16 +122,8 @@
  .m-nav__item.question-mark-tutorial {
 	 display: none;
 }
-/*.backstretch {
-	 background-color: #008047 !important;
-}
- .backstretch .backstretch-item img {
-	 display: none !important;
-}
- .backstretch .backstretch-item {
-	 background-color: #008047 !important;
-}
- */
+
+/* Фанис */
 .prebooking_complex .selected-paxes-table .name-wrap__item-upper {
         font-size: 18px;
         width: 100%;
@@ -140,6 +132,7 @@
         left: 0;
         color: #0723ad; 
 }
+
  .m-header .m-header__bottom {
 	 background-color: #fff !important;
 }
