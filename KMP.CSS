@@ -132,6 +132,14 @@
 	 background-color: #008047 !important;
 }
  */
+.prebooking_complex .selected-paxes-table .name-wrap__item-upper {
+        font-size: 18px;
+        width: 100%;
+        position: absolute;
+        bottom: -13px;
+        left: 0;
+        color: #0723ad; 
+}
  .m-header .m-header__bottom {
 	 background-color: #fff !important;
 }
@@ -280,13 +288,4 @@
 #header-info .call-sign {
 
     color: #000 !important;
-}
-
-.prebooking_complex .selected-paxes-table .name-wrap__item-upper {
-        font-size: 18px;
-        width: 100%;
-        position: absolute;
-        bottom: -13px;
-        left: 0;
-        color: #0723ad; 
 }
